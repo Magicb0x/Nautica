@@ -8,7 +8,7 @@ const apiEmail = "magicbox665@gmail.com"; // Ganti dengan email yang kalian guna
 const accountID = "3c915f494c32d7be53e2782af518df4b"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "c32014eb3bca250189f68024df4c3d8f"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = true;
-let proxyIP = "103.168.146.169";
+let proxyIP = "";
 let cachedProxyList = [];
 
 // Constant
