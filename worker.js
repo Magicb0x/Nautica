@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "sibondt.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const serviceName = "trojan"; // Ganti dengan nama workers kalian
 const apiKey = "IxXI4brta1G3Id1hVcSBi5fogqI6WGUg33Gku_1j"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "magicbox665@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "3c915f494c32d7be53e2782af518df4b"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
